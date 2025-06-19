@@ -1,0 +1,11 @@
+Year,Borough,Gender,Age,Race,HIV_diagnosed,Concurrent_diagnosed,AIDS_diagnosed,Death_Status,Poverty_Level,Transmission_Category,Education_Level,Linked_to_Care_3mo,Housing_Status,Employment_Status,Substance_Use
+2020,Bronx,Male,44,Hispanic,True,Hepatitis B,False,Alive,Medium,MSM,Primary,True,Housed,Informal,Alcohol
+2012,Bronx,Transgender,64,Other,True,Gonorrhea,True,Deceased,High,MSM,Primary,True,Homeless,Retired,
+2010,Bronx,Male,54,White,True,"Gonorrhea, Tuberculosis, Hepatitis C",False,Alive,Medium,MSM,Primary,True,Housed,Employed,Alcohol
+2013,Staten Island,Female,32,White,True,"Gonorrhea, Hepatitis C",False,Alive,Low,Heterosexual,Primary,True,Housed,Retired,Both
+2022,Bronx,Male,70,Asian,True,"Hepatitis C, Hepatitis B",False,Alive,Medium,Heterosexual,Primary,True,Housed,Retired,
+2013,Manhattan,Male,75,Black,True,"Tuberculosis, Hepatitis C",True,Deceased,Medium,Heterosexual,Secondary,True,Housed,Retired,Both
+2023,Manhattan,Transgender,68,Hispanic,True,Syphilis,False,Deceased,Medium,Mother-to-child,,True,Housed,Retired,
+2018,Bronx,Female,41,Black,True,"Hepatitis C, Gonorrhea, Syphilis",False,Alive,High,Heterosexual,Primary,True,Homeless,Unemployed,Drugs
+2011,Bronx,Transgender,21,White,True,"Tuberculosis, Hepatitis B",False,Alive,Low,MSM,Tertiary,True,Housed,Informal,Alcohol
+2023,Bronx,Female,21,Hispanic,True,"Hepatitis C, Hepatitis B",False,Alive,High,Heterosexual,Primary,True,Homeless,Unemployed,

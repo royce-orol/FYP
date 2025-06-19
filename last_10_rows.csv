@@ -1,0 +1,11 @@
+Year,Borough,Gender,Age,Race,HIV_diagnosed,Concurrent_diagnosed,AIDS_diagnosed,Death_Status,Poverty_Level,Transmission_Category,Education_Level,Linked_to_Care_3mo,Housing_Status,Employment_Status,Substance_Use
+2014,Manhattan,Transgender,48,White,True,Tuberculosis,False,Deceased,Low,Mother-to-child,Tertiary,False,Housed,Informal,
+2014,Queens,Transgender,32,Hispanic,True,"Syphilis, Hepatitis B, Tuberculosis",False,Alive,Medium,Injection,Primary,True,Housed,Employed,Both
+2023,Bronx,Transgender,68,Black,True,"Syphilis, Gonorrhea",True,Deceased,Medium,MSM,Tertiary,False,Housed,Retired,
+2015,Bronx,Transgender,75,Hispanic,True,"Tuberculosis, Hepatitis B",False,Alive,Medium,MSM,Primary,True,Housed,Retired,
+2015,Bronx,Male,34,Other,True,"Syphilis, Tuberculosis, Hepatitis C",True,Alive,Low,MSM,Secondary,False,Housed,Employed,Alcohol
+2020,Staten Island,Female,76,Black,True,"Tuberculosis, Hepatitis C, Gonorrhea",False,Alive,Medium,Injection,Secondary,True,Housed,Retired,Alcohol
+2012,Staten Island,Transgender,75,Black,True,"Hepatitis B, Syphilis",False,Alive,Low,Heterosexual,Tertiary,False,Housed,Retired,
+2017,Bronx,Transgender,23,Hispanic,True,Syphilis,True,Alive,Medium,Injection,Secondary,False,Housed,Informal,Both
+2018,Staten Island,Male,36,Hispanic,True,"Gonorrhea, Hepatitis C",False,Alive,Medium,Heterosexual,,False,Housed,Informal,Alcohol
+2021,Manhattan,Female,55,White,True,"Gonorrhea, Hepatitis B, Syphilis",True,Deceased,Medium,MSM,Primary,True,Housed,Employed,
